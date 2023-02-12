@@ -4,7 +4,8 @@
       "id": 1,
       "date": "2022-03-01",
       "title": "Fastlagstiden börjar",
-      "description": "Fastlagstiden börjar 49 dagar före påskdagen och är en tid för reflektion och avhållsamhet."
+      "description": "Fastlagstiden börjar 49 dagar före påskdagen och är en tid för reflektion och avhållsamhet.",
+     "link": "/evenemang/fastlagstiden-borjar"
     },
     {
       "id": 2,
@@ -40,13 +41,15 @@
       "id": 7,
       "date": "2022-11-21",
       "title": "Heliga ärkeängeln Mikaels dag",
-      "description": "Heliga ärkeängeln Mikaels dag är en högtid som firas till minne av ärkeängeln Mikaels beskydd."
+      "description": "Heliga ärkeängeln Mikaels dag är en högtid som firas till minne av ärkeängeln Mikaels beskydd.",
+      "link": "https://www.wikipedia.org/"
     },
     {
       "id": 8,
       "date": "2022-12-25",
       "title": "Kristi födelse",
-      "description": "Kristi födelse firas till minne av Jesu födelse."
+      "description": "Kristi födelse firas till minne av Jesu födelse.",
+      "link": "https://www.wikipedia.org/"
     },
     {
       "id": 9,
